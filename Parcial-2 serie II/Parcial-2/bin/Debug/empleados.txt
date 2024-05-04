@@ -1,0 +1,2 @@
+TiempoCompleto|Leonel|13000
+TiempoCompleto|Alejandro|6700
